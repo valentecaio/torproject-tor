@@ -1,3 +1,7 @@
+[More information about this fork here.](https://drive.google.com/file/d/14sRIm4EPMdGlB6_A2YhV7xCzTYdVzD1K)
+
+--------------------------------------------------
+
 Tor protects your privacy on the internet by hiding the connection
 between your Internet address and the services you use. We believe Tor
 is reasonably secure, but please ensure you read the instructions and
