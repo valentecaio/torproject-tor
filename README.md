@@ -1,5 +1,13 @@
-[More information about this fork here.](https://drive.google.com/file/d/14sRIm4EPMdGlB6_A2YhV7xCzTYdVzD1K)
-
+This repo is a personnal fork of the Tor Project that I created when contributing to Tor with improvements to its IPv6 support.  
+This happened in 2018 as a project for my master's degree in Computer Engineering, in France (Telecom Bretagne).  
+Each active branch of the repo is a ticket of the Tor bug-tracker that I worked on.  
+[You may find more information in this technical report.](https://drive.google.com/file/d/1kqV7co4ilmaGUUuAuVeeL4eNn7Wyqi1W)
+  
+  
+  
+  
+  
+  
 --------------------------------------------------
 
 Tor protects your privacy on the internet by hiding the connection
