@@ -1,7 +1,7 @@
 This repository is a personal fork of the Tor Project that I created when contributing to Tor with improvements to its IPv6 support.  
 This happened in 2018 as a project for my master's degree in Computer Engineering, in France (Telecom Bretagne).  
 Each active branch of the repo is a ticket of the Tor bug-tracker that I worked on.  
-[You may find more information in this technical report.](https://drive.google.com/file/d/1kqV7co4ilmaGUUuAuVeeL4eNn7Wyqi1W)
+[You may find more information in this technical report.](assets/Contributing%20to%20the%20TOR%20Project:%20improving%20the%20IPv6%20Support.pdf)
   
   
   
